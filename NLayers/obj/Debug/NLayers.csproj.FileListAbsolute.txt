@@ -1,0 +1,10 @@
+C:\Users\Cristopher Zaiz\Desktop\ASP\NLayers\NLayers\bin\Debug\NLayers.exe.config
+C:\Users\Cristopher Zaiz\Desktop\ASP\NLayers\NLayers\obj\Debug\NLayers.csprojResolveAssemblyReference.cache
+C:\Users\Cristopher Zaiz\Desktop\ASP\NLayers\NLayers\obj\Debug\NLayers.Form1.resources
+C:\Users\Cristopher Zaiz\Desktop\ASP\NLayers\NLayers\obj\Debug\NLayers.Properties.Resources.resources
+C:\Users\Cristopher Zaiz\Desktop\ASP\NLayers\NLayers\obj\Debug\NLayers.welcome.resources
+C:\Users\Cristopher Zaiz\Desktop\ASP\NLayers\NLayers\obj\Debug\NLayers.csproj.GenerateResource.Cache
+C:\Users\Cristopher Zaiz\Desktop\ASP\NLayers\NLayers\bin\Debug\NLayers.exe
+C:\Users\Cristopher Zaiz\Desktop\ASP\NLayers\NLayers\bin\Debug\NLayers.pdb
+C:\Users\Cristopher Zaiz\Desktop\ASP\NLayers\NLayers\obj\Debug\NLayers.exe
+C:\Users\Cristopher Zaiz\Desktop\ASP\NLayers\NLayers\obj\Debug\NLayers.pdb
